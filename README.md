@@ -12,8 +12,6 @@ This project is a responsive registration form with a modern design. It includes
 
 - Responsive design with Bootstrap 4.
 - Form validation and dynamic input styles.
-- Integration with Google's reCAPTCHA for spam protection.
-- Conversion of Gregorian birthdates to Hijri birthdates.
 - Focus and blur effects on form inputs.
 
 ## Getting Started
