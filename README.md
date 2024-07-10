@@ -21,9 +21,4 @@ This project is a responsive registration form with a modern design. It includes
 - A modern web browser.
 - Internet connection for loading external libraries.
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/mbn64/SignUP-Form
