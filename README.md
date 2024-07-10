@@ -1,6 +1,6 @@
 # Responsive Registration Form
 
-This project is a responsive registration form with a modern design. It includes validation, dynamic input styles, and integration with Google's reCAPTCHA for spam protection. The form also has the ability to convert Gregorian birthdates to Hijri birthdates using the Hijri Date library.
+This project is a responsive registration form with a modern design. It includes validation, dynamic input styles.
 
 ## Project Structure
 
@@ -28,4 +28,4 @@ This project is a responsive registration form with a modern design. It includes
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/responsive-registration-form.git
+   git clone https://github.com/mbn64/SignUP-Form
